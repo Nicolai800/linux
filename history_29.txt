@@ -1,0 +1,77 @@
+   0 whoami
+   1 pwd
+   2 ls
+   3 ls --help
+   4 ls -a
+   5 ls -l
+   6 ls -l-la
+   7 ls - la
+   8 ls -la
+   9 cd
+  10 cd ..
+  11 ls
+  12 history
+  13 ls-al
+  14 ls -al
+  15 cd /home
+  16 ls
+  17 ls -a
+  18 mkdir user1
+  19 ls
+  20 cd user1/
+  21 mkdir task1
+  22 ls
+  23 cd task1
+  24 touch file1.txt
+  25 ls
+  26 cd /home
+  27 clear
+  28 ls
+  29 mkdir user2
+  30 ls
+  31 cd user2
+  32 mkdir task2
+  33 ls
+  34 cd task2
+  35 touch file2.txt
+  36 cd /home
+  37 ls
+  38 ls-l
+  39 ls -l
+  40 tree
+  41 ls -R
+  42 mkdir --help
+  43 mkdir -p user3/task3/
+  44 cd user3/task3/
+  45 touch file3.txt
+  46 cd
+  47 mkdir -p  /home/user4/task4
+  48 touch /home/user4/task4/file.txt
+  49 tree /home
+  50 ls /home
+  51 ls /bin
+  52 tree /home
+  53 cp /home/user1/task1/file1.txt /opt
+  54 list /opt
+  55 ls /opt
+  56 cp /home/user1/task1/file1.txt /opt/new_file1.txt
+  57 ls /opt
+  58 cp -r /home/usre2/task2 /opt
+  59 cp -r /home/user2/task2 /opt
+  60 ls /opt
+  61 cp -r /home/user2/task2 /opt/new_task2
+  62 ls /opt
+  63 tree /home/
+  64 mv /home/user3 /opt
+  65 tree /home
+  66 tree /opt
+  67 mv readme.txt .readme.txt
+  68 ls -s
+  69 ls -a
+  70 tree /home
+  71 rm --help
+  72 rm -r /home/usre4
+  73 rm -r /home/user4
+  74 hirtory
+  75 history
+  76 history > history_29.txt
